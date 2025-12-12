@@ -46,6 +46,7 @@ The goal is to track key performance indicators (KPIs), identify customer prefer
 4. Refer to the `Screenshots/` folder for quick previews of the dashboards. 
 
 ## 📸 Dashboard Preview
+<img width="569" height="313" src="" />
 
 
 
