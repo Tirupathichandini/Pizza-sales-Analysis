@@ -28,8 +28,7 @@ The goal is to track key performance indicators (KPIs), identify customer prefer
 
 ### 📑 Files in the Repository
 - `SQL Queries/pizza_sales.sql` → SQL scripts for analyzing pizza sales  
-- `Excel/pizza_sales_dashboard.xlsx` → Excel dashboard with charts and KPIs  
-- `PowerBI/pizza_sales_dashboard.pbix` → Power BI dashboard file  
+- `Excel/pizza_sales_dashboard.xlsx` → Excel dashboard with charts and KPIs   
 - `Screenshots/` → Contains preview images of the dashboards  
 - `README.md` → Project documentation  
 
